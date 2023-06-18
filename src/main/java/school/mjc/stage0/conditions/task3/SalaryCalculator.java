@@ -10,7 +10,6 @@ public class SalaryCalculator {
             System.out.println(salary - salary * 0.18);
         } else if (salary > 20_000) {
             System.out.println(salary - salary * 0.2);
-
         }
     }
 }
